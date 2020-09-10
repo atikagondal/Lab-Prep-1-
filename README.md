@@ -1,8 +1,11 @@
 # Lab-Prep-1-
 
-#In this Lab, we will use two datasets which are freely available.The Iris and Wine Reviews dataset. 
+#In this Lab, we will use two datasets which are freely available.The Iris and Wine Reviews dataset.
 
-https://archive.ics.uci.edu/ml/datasets/iris(Iris dataset) and https://www.kaggle.com/zynicide/wine-reviews (Wine reviews dataset). 
+You can download the two datasets from the link provided below:
+
+Irsi Dataset - https://archive.ics.uci.edu/ml/datasets/iris
+Wine-Review Dataset - https://www.kaggle.com/zynicide/wine-reviews 
 
 Data Visualization in Python can be done using different libraries. Here we have used three Python Libraries namely Pandas Visualization, Matplotlib and Seaborn.
 
